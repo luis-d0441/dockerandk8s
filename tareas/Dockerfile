@@ -1,0 +1,1 @@
+#de acuerdo al siguiente dockerfile, crea lo necesario para poder ejecurarlo desde el puerto 3000 y utlizando la version node 14
